@@ -1,0 +1,1022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"s3m",
+				"s3min"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"clear",
+				"clearInfos"
+			],
+			[
+				"curre",
+				"currentYear"
+			],
+			[
+				"ediTile",
+				"editTileLink"
+			],
+			[
+				"op",
+				"open"
+			],
+			[
+				"Edy",
+				"Edytuj"
+			],
+			[
+				"key",
+				"keypress"
+			],
+			[
+				"cha",
+				"change"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"par",
+				"parrent"
+			],
+			[
+				"detail",
+				"detailsName"
+			],
+			[
+				"deta",
+				"detailsTitle"
+			],
+			[
+				"form",
+				"formTitle"
+			],
+			[
+				"bol",
+				"boolean"
+			],
+			[
+				"quer",
+				"queryString"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"sum_",
+				"sum_c"
+			],
+			[
+				"info",
+				"infoTemplate"
+			],
+			[
+				"ca",
+				"carModel"
+			],
+			[
+				"car",
+				"carBrand"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"erro",
+				"errors"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"valid",
+				"validatePesel"
+			],
+			[
+				"yea",
+				"yearOfBirth"
+			],
+			[
+				"ret",
+				"returnData"
+			],
+			[
+				"getI",
+				"getInsuranceOfferM"
+			],
+			[
+				"ext",
+				"external"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"vehi",
+				"vehicleModelId"
+			],
+			[
+				"new",
+				"newClass"
+			],
+			[
+				"vehicl",
+				"vehicleBrandId"
+			],
+			[
+				"ve",
+				"vehicleModelId"
+			],
+			[
+				"get",
+				"getVehicleValue"
+			],
+			[
+				"brand",
+				"brand-list"
+			],
+			[
+				"getV",
+				"getVehicleModel"
+			],
+			[
+				"veh",
+				"vehicleBrandId"
+			],
+			[
+				"data-",
+				"data-brand-id"
+			],
+			[
+				"prod",
+				"productionYear"
+			],
+			[
+				"ifr",
+				"iframe	Tag"
+			],
+			[
+				"ini",
+				"initDataHandlers"
+			],
+			[
+				"vhei",
+				"vehicleList"
+			],
+			[
+				"vhe",
+				"vehicleData"
+			],
+			[
+				"syste",
+				"System"
+			],
+			[
+				"data",
+				"datas"
+			],
+			[
+				"parseFlo",
+				"parseFloat"
+			],
+			[
+				"Pro",
+				"ProductTile"
+			],
+			[
+				"opro",
+				"oprocentowanie"
+			],
+			[
+				"params",
+				"paramsLP"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"Arr",
+				"ArrayList"
+			],
+			[
+				"out",
+				"out_brutto"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"load",
+				"loadData"
+			],
+			[
+				"coun",
+				"countPrice"
+			],
+			[
+				"sea",
+				"searchTile"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"groups",
+				"groupsSelect"
+			],
+			[
+				"group",
+				"groups"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"gr",
+				"groups"
+			],
+			[
+				"grou",
+				"group"
+			],
+			[
+				"conf",
+				"confirmNo"
+			],
+			[
+				"confi",
+				"confirmYes"
+			],
+			[
+				"confirmD",
+				"confirmDelete"
+			],
+			[
+				"show",
+				"showMsg"
+			],
+			[
+				"in",
+				"input	input - button"
+			],
+			[
+				"ref",
+				"refreshToltip"
+			],
+			[
+				"upda",
+				"updateDiv"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"tab",
+				"tabSize"
+			],
+			[
+				"updat",
+				"updateData"
+			],
+			[
+				"now",
+				"nowDate"
+			],
+			[
+				"exp",
+				"expireDate"
+			],
+			[
+				"Da",
+				"Date"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"disa",
+				"disable"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"todo",
+				"todos"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"subs",
+				"subscribersList"
+			],
+			[
+				"ads",
+				"adsSlotId"
+			],
+			[
+				"slo",
+				"slotID"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"init",
+				"initVal"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"sub",
+				"subjectOne"
+			],
+			[
+				"change",
+				"changed"
+			],
+			[
+				"test",
+				"testSubject"
+			],
+			[
+				"chan",
+				"changed"
+			],
+			[
+				"obser",
+				"observeList"
+			],
+			[
+				"obs",
+				"observer's"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"ht",
+				"html	.html"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rotator",
+				"rotatorSpace"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ins",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"app",
+				"append	.append"
+			],
+			[
+				"addc",
+				"addClone"
+			],
+			[
+				"add",
+				"addClone"
+			],
+			[
+				"ad",
+				"addClone"
+			],
+			[
+				"accty",
+				"acctype"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"compa",
+				"compareLayer"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"stri",
+				"strict"
+			],
+			[
+				"tempS",
+				"tempSlotId"
+			],
+			[
+				"slot",
+				"slotID"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"main",
+				"mainTile"
+			],
+			[
+				"sho",
+				"showMsg"
+			],
+			[
+				"inde",
+				"indexOf('cms"
+			],
+			[
+				"column",
+				"columnsData"
+			],
+			[
+				"col",
+				"columnsWidth"
+			],
+			[
+				"is",
+				"isAnimate"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"acc",
+				"account-type"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"arr",
+				"arrowContainerHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sets",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"plugi",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSHint: Set Keyboard Shortcuts"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+			"help",
+			"npm install jshint",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp16533/mbpartner/kalkulatory/calc/bin/calculators.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp51017/home/tomcats/cmsmbank5/srv/tomcat/webapps/anuncio-web-admin/css/style.css",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp03500/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp03093/home/skandia/conf/skandia/skandia.ini",
+		"/C/!Praca/skandia/.templates/css/styles.css",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp54421/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_widget_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp54406/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form.php",
+		"/C/wamp/www/kalk/css/style.css",
+		"/C/wamp/www/kalk/strony_zewnetrzne_kalkulator.html",
+		"/C/wamp/www/kalk/5_1_kup.html",
+		"/C/Documents and Settings/pchwirot/Pulpit/skandia formy/skandia.ini",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp48343/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/m-skandia-pl/.templates/css/basic.css",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp01937/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/m-skandia-pl/bin/tpl/contact_form2.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp42453/mbpartner/kalkulatory/calc/bin/calculators.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp00593/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp03109/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/.templates/css/styles.css",
+		"/C/Documents and Settings/pchwirot/Pulpit/editor todo.txt",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp30500/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/m-skandia-pl/bin/tpl/contact_form2.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp01828/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_DW.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp24843/home/skandia/conf/skandia/skandia.ini",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp25296/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp29890/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/m-skandia-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Pulpit/skandia.ini",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp30125/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/m-skandia-pl/bin/tpl/contact_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp32875/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/m-skandia-pl/bin/tpl/nl_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp23296/home/skandia/conf/kk/skandia.ini",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp01656/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form3.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp01937/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form2.tpl",
+		"/C/wamp/www/kalk/5_0_zamiana_wartosci.html",
+		"/C/wamp/www/mbankRaty/index.html",
+		"/C/Documents and Settings/pchwirot/Pulpit/contact_form_FP.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp43156/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_FP.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp43343/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_DW.tpl",
+		"/C/wamp/www/mvc/new/js/scripts.js",
+		"/C/Documents and Settings/pchwirot/Pulpit/todo/js/scripts.js",
+		"/C/Documents and Settings/pchwirot/Pulpit/hptiles_hp.jsp",
+		"/C/wamp/www/kalk/API/POST api_InsuranceOfferM.htm",
+		"/C/Documents and Settings/pchwirot/Pulpit/tilesEditor.js",
+		"/C/Documents and Settings/pchwirot/Pulpit/skandia formy.txt",
+		"/C/wamp/www/kalk/adresy.txt",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp42240/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/damaztorebka-pl/bin/app/controllers/BlogController.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp10115/home/skandia/conf/dzt/skandia.ini",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp41068/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/damaztorebka-pl/bin/app/models/BlogModel.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp00646/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/damaztorebka-pl/bin/app/views/blog/indexArticles.tpl",
+		"/C/Documents and Settings/pchwirot/Pulpit/mbank Raty/index.html",
+		"/C/Documents and Settings/pchwirot/Pulpit/mbank editor/tilesEditor.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp56171/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_DW.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp55078/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form_DW.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp54125/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp32093/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.templates/js/hp2.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp10093/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form3.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp01703/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp06171/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form2.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp33062/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_SZ.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp58406/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_FP.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp03562/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_DW.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp24687/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp52031/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/nl_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp26843/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/bin/advisor-contact.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp08640/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/nl_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp09593/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/nl_edit_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp16859/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/currency-box.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp16531/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/fund_info.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp10453/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form2.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp09609/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_SZ.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp09875/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_FP.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp09984/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form_DW.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp09046/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/contact_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp11093/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/nl_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp09375/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/news.phtml",
+		"/C/wamp/www/mvc/new/index.html",
+		"/C/wamp/www/mvc/old/todo.html",
+		"/C/wamp/www/mvc/old/js/js-mvc.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp19531/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/.templates/js/scripts.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp19125/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/.hpslideshow/slide2a.html",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp29218/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/bin/advisor-contact.php",
+		"/C/Documents and Settings/pchwirot/Pulpit/formularze_20140220.csv",
+		"/C/Documents and Settings/pchwirot/Pulpit/advisor-contact.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp05984/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/damaztorebka-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp50656/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/kontakt_csv/formularze_20140220.csv",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp07296/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/nl_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp08500/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/tpl/nl_form.tpl",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp19828/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/.templates/css/styles.css",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp13095/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form_DW.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp13516/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp12811/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/newsletter_opening.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp12496/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/newsletter.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp05531/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.templates/js/hp2.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp10865/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.includes/ads-products.html.i",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp12570/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/private-banking/zarzadzanie-majatkiem/.catalogue/product-categories/zarzadzanie-majatkiem/optymalizacja-podatkowa",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp10973/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.includes/ads-location.html.i",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp54375/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.templates/js/hp2.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp33078/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/damaztorebka-pl/.templates/js/scripts.js",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp17494/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/bin/advisor-contact.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp14026/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/contact_form.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp15666/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/bin/contact.php",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp00635/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/kontakt_csv/formularze_20130221.csv",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp59369/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/kontakt_csv/formularze_20140122.csv",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp41213/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/kontakt_csv/formularze_20140218.csv",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp27041/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/skandia-pl/bin/lib/init.php",
+		"/C/wamp/www/mvc/new/css/styles.css",
+		"/C/WINDOWS/system32/drivers/etc/hosts",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp14859/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.templates/js/hp2.js",
+		"/C/!Praca/mBank5.0/.templates/css/styles.css",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp17671/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.templates/css/styles.css",
+		"/C/wamp/www/spinner/styles.css",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp18859/home/tomcats/cmsmbank5/srv/tomcat/webapps/startweb/export/sites/mbank-pl/.templates/js/scripts.js",
+		"/C/Documents and Settings/pchwirot/Pulpit/asd.js",
+		"/C/Documents and Settings/pchwirot/Ustawienia lokalne/Temp/scp39828/home/skandia/srv/tomcat-cms/webapps/startweb/export/sites/klubklienta-pl/.templates/css/styles.css",
+		"/C/wamp/www/bgzPorownywarka/css/styles.css",
+		"/C/wamp/www/bgzPorownywarka/css/calc.css",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/wamp/www/kalk/js/script.js",
+		"/C/wamp/www/test/test.js",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/wamp/www/test/test.css",
+		"/C/wamp/www/test/untitled.java",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/C/Documents and Settings/pchwirot/Dane aplikacji/Sublime Text 3/Packages/JSHint Gutter/Default (Windows).sublime-keymap",
+		"/C/wamp/www/dzt/templates/css/styles.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http",
+			"slider3",
+			"slider1",
+			"slider3",
+			"name=\"productionYear\"",
+			"slider",
+			"sliderContainer ",
+			"getVehicleBrand",
+			"summa",
+			"getVehicleBrand",
+			"changeCarValue",
+			"getInsuranceOfferM",
+			"submit",
+			"console.log",
+			"ow.open",
+			"editTile",
+			"findTile",
+			"statsButtons",
+			"statsButton",
+			"production",
+			"yearOfBirth",
+			"initDataHandlers",
+			"getVehicleValue",
+			"inputCon",
+			"hidden",
+			"detalisBtn",
+			"tileObjec",
+			"formTitle",
+			"hover",
+			"getVehicleBrand",
+			"getTilesOnScreens",
+			"exportDa",
+			"console",
+			"pesel",
+			"slotName",
+			"askFor",
+			"e_",
+			"polishBushes",
+			"'i",
+			"carModel",
+			"vehicleBrandRequests",
+			"rel=tooltip",
+			"checkboxbig",
+			"asd",
+			"#content",
+			"content",
+			"summa",
+			"tooltip",
+			"tooltipB",
+			"tooltip",
+			"$('.calc div.cover')",
+			"getFormData",
+			"console",
+			"load",
+			"OcCalculator",
+			"orang",
+			"discounts",
+			"small",
+			"slider",
+			"calc8",
+			"undefined",
+			"console",
+			"vehicleBrandId",
+			"discounts",
+			"getVehicleModel",
+			"li",
+			"li'",
+			"li",
+			"initDataHandlers",
+			"getFormData",
+			"updateFormData",
+			"input.shorter",
+			"bind",
+			"vehicleBrandIdRequests",
+			"vehicleBrandRequests",
+			"bind",
+			"carModel",
+			"updateFormData",
+			"getVehicleBrand",
+			"initDataHandlers",
+			"getVehicleBrand",
+			"initDataHandlers",
+			"getVehicleBrand",
+			"define",
+			"own",
+			"slider",
+			"getFormData",
+			"updateFormData",
+			"show",
+			"system.ou",
+			"system.",
+			"long s",
+			"long startTime = System.currentTimeMillis()",
+			"long startTime",
+			"long",
+			"prodMap",
+			"makeTile",
+			"makeTileByAdsId",
+			"getP",
+			"Map<Long, ProductTile> ",
+			"makeb",
+			"makeProductTilesMap",
+			"colum",
+			"makeProductTilesMap",
+			"cha",
+			"sample-c",
+			"91",
+			"input",
+			"addColumn",
+			"makeScreens",
+			"addColumn",
+			"countPrice",
+			"makeProductTilesMap",
+			"prodMap",
+			"makeProductTilesMap",
+			"column2Prop",
+			"addColumn",
+			"prodMap",
+			"makeTileByAdsId",
+			"getBrutto",
+			"OPROCENTOWANIE",
+			"getBrutto",
+			"[target]",
+			"getBr",
+			"getBrutto",
+			"91",
+			"CMS_POROZMAWIAJMY_BLOG_ARTICLES",
+			"read_also"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
